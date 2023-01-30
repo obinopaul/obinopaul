@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obinopaul
 - 👀 I’m interested in Data Science, Machine Learning, and Computer Vision
-- 🌱 I’m currently learning Data Science using Python, SQL, and Power Bi.
+- 🌱 I’m currently working on Machine Learning projects. 
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects with industry applications
 - 📫 How to reach me: email: acobapaul@gmail.com; Mobile/WhatsApp: +234-8174506829
 
