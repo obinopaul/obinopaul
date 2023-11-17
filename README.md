@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning, and Computer Vision
 - 🌱 I’m currently working on Machine Learning projects. 
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects with industry applications
-- 📫 How to reach me: email: acobapaul@gmail.com; Mobile/WhatsApp: +234-8174506829
+- 📫 How to reach me: email: acobapaul@gmail.com; Mobile/WhatsApp: (405) 320-7784 
 
 <!---
 obinopaul/obinopaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
