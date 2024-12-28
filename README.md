@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @obinopaul
+<h1 align="center">Hi 👋, I'm Paul Okafor</h1>
+<h3 align="center">A passionate Data Scientist and Machine Learning Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=obinopaul&label=Profile%20views&color=0e75b6&style=flat" alt="obinopaul" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obinopaul" alt="obinopaul" /></a> </p>
+
 - 👀 I’m interested in Data Science, Machine Learning, and Computer Vision
 - 🌱 I’m currently working on Machine Learning projects. 
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects with industry applications
@@ -15,8 +21,8 @@
 <a href="https://www.instagram.com/obinopaul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zafir.abdullah/" height="30" width="40" /></a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obinopaul&show_icons=true&locale=en" alt="zafir547" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obinopaul&show_icons=true&locale=en&layout=compact" alt="obinopaul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obinopaul&show_icons=true&locale=en" alt="obinopaul" /></p>
 
 <!---
 obinopaul/obinopaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
